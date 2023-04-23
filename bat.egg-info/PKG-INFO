@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: bat
+Version: 0.1
+Summary: This is just a test
+Home-page: https://github.com/AkulDuggal/Simplebatanimation
+Author: akul
+Author-email: akulduggal46@gmail.com
+License: free
+Description-Content-Type: text/markdown
+
+# My Project
+
+This is a Python project that does something cool. You can use it to solve problems, automate tasks, or impress your friends.
+
+## Installation
+
+To install this project, simply run:
+
+pip install myproject
+
+
+## Usage
+
+To use this project, you can import it into your Python code like this:
+
+```python
+import bat
+
+# do something cool with myproject
